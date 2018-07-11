@@ -1,0 +1,79 @@
+/*
+Dashboard Page Styles
+*/
+
+main #content .summary .card {
+  border-top: 1px solid #EEE;
+  border-right: 2px solid #EEE;
+  border-bottom: 1px solid #EEE;
+  border-left: 2px solid #EEE;
+}
+
+main #content .summary .card .card-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  border:none;
+  background-color: #F1F1F1;
+}
+
+main #content .summary .card .list-group {}
+
+main #content .summary .card .list-group .list-group-item {}
+
+main #content .summary .card .list-group .list-group-item .data {
+  font-weight: 300;
+  font-size: 200%;
+  line-height: 1em;
+}
+
+main #content .summary .card .list-group .list-group-item .info {
+  color: #00A1D0;
+}
+
+main #content .graphs .card {
+  border: none;
+  background-color:#FAFAFA;
+}
+
+main #content .graphs .card .title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+main #content .graphs .card .graph {}
+
+main #content .graphs .card .legend {}
+
+main #content .graphs .card .legend .key {
+  display: inline-block;
+  width:7px;
+  height:7px;
+  background-color: #F1F1F1;
+  vertical-align: middle;
+}
+
+  main #content .graphs .card .legend .sky {
+    background-color: #A6D2E9;
+  }
+
+  main #content .graphs .card .legend .smog {
+    background-color: #BCCDD4;
+  }
+
+  main #content .graphs .card .legend .clay {
+    background-color: #A19548;
+  }
+
+  main #content .graphs .card .legend .teal {
+    background-color: #2F5F75;
+  }
+
+  main #content .graphs .card .legend .smoke {
+    background-color: #53595A;
+  }
+
+main #content .graphs .card .legend .value {
+  display: inline-block;
+  margin-left: 2px;
+  vertical-align: middle;
+}

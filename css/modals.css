@@ -1,0 +1,57 @@
+/*
+Modal Styles
+*/
+
+/* Colors:  Sky Blue - 00A1D0 - Dark Blue 2D4579 - Grey 939597  */
+
+.modal-header {
+  padding-bottom:14px;
+}
+
+button.close {
+  margin:0 !important;
+  padding:0 !important;
+  padding-top:6px !important;
+  text-align: right;
+}
+
+.modal-title {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size:150%;
+}
+
+.modal-title span {
+  color:#00A1D0;
+}
+
+.modal-body {
+  background-color: #EEE;
+}
+
+label {
+  text-transform: uppercase;
+  font-size: 80%;
+}
+
+label span {
+  text-transform: lowercase;
+}
+
+.list-group a.disabled {
+  background-color: #FAFAFA;
+  cursor:default;
+}
+
+.list-group a.active {
+  background-color: #00A1D0;
+}
+
+.list-group a h5 {
+  font-size:100%;
+}
+
+.list-group a p {
+  font-size:80%;
+  margin:0;
+}
