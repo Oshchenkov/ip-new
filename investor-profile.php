@@ -100,7 +100,7 @@
 										</div>
 										<div class="col2"></div>
 									</div>
-									<div class="row mb-4">
+									<div class="row">
 										<div class="col-5">
 											Email Address:
 										</div>
@@ -144,7 +144,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="cardGrey__content mb-4">
+								<div class="cardGrey__content ">
 									<div class="row">
 										<div class="col-7">
 											Harbour Report
@@ -169,7 +169,7 @@
 									Incomplete applications
 								</div>
 								<div class="cardGrey__content">
-									<div class="row mb-4">
+									<div class="row ">
 										<div class="col-4">
 											Limelight Report
 										</div>
@@ -210,7 +210,7 @@
 									</div>
 								</div>
 								<div class="cardGrey__content">
-									<div class="row mb-2">
+									<div class="row ">
 										<div class="col-4">
 											<div class="text-uppercase">
 												gia

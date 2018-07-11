@@ -11,7 +11,7 @@
             </a>
             <a class="nav-link px-4 py-3 small" href="#">
               <span class="icon fas fa-2x fa-search"></span>
-              <span class="text">Search Investors</span>
+              <span class="text">Search Clients</span>
 						</a>
 						<a class="nav-link px-4 py-3 small" href="#">
               <span class="icon fas fa-2x fas fa-chart-line"></span>

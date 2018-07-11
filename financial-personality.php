@@ -126,7 +126,7 @@
 								Affordability
 								</div>
 								<div class="financialPersonality__contentChart">
-									<img src="img\13-financial-personality\Charts-score.jpg" alt="" class="financialPersonality__contentChart-img">
+									<img src="img\13-financial-personality\Affordability.jpg" alt="" class="financialPersonality__contentChart-img">
 								</div>
 							</div>
 						</div>
@@ -154,7 +154,7 @@
 									Investing experience
 								</div>
 								<div class="financialPersonality__contentChart">
-									<img src="img\13-financial-personality\Charts-score.jpg" alt="" class="financialPersonality__contentChart-img">
+									<img src="img\13-financial-personality\InvestingExperiennce-chart.jpg" alt="" class="financialPersonality__contentChart-img">
 								</div>
 							</div>
 						</div>
@@ -183,7 +183,7 @@
 									Financial composure
 								</div>
 								<div class="financialPersonality__contentChart">
-									<img src="img\13-financial-personality\Charts-score.jpg" alt="" class="financialPersonality__contentChart-img">
+									<img src="img\13-financial-personality\FinancialComposure-chart.jpg" alt="" class="financialPersonality__contentChart-img">
 								</div>
 							</div>
 						</div>
@@ -212,7 +212,7 @@
 									Risk tolerance
 								</div>
 								<div class="financialPersonality__contentChart">
-									<img src="img\13-financial-personality\Charts-score.jpg" alt="" class="financialPersonality__contentChart-img">
+									<img src="img\13-financial-personality\Risk-Chart.jpg" alt="" class="financialPersonality__contentChart-img">
 								</div>
 							</div>
 						</div>
@@ -257,7 +257,7 @@
 								</div>
 								<div class="financialPersonality__content clearfix">
 									<div class="financialPersonality__content-icon ">
-										<img src="img\13-financial-personality\Round-check.jpg" alt="">
+										<img src="img\13-financial-personality\Round-info.jpg" alt="">
 									</div>
 									<div class="financialPersonality__content-text text-uppercase">
 										No conflicts found
@@ -284,7 +284,7 @@
 								</div>
 								<div class="financialPersonality__content clearfix">
 									<div class="financialPersonality__content-icon ">
-										<img src="img\13-financial-personality\Round-check.jpg" alt="">
+										<img src="img\13-financial-personality\Round-info.jpg" alt="">
 									</div>
 									<div class="financialPersonality__content-text text-uppercase">
 										No conflicts found

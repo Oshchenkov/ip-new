@@ -764,3 +764,39 @@ End Bootstrap custom styles
 	border-top: 1px solid #dadada;
 	border-bottom: 1px solid #dadada;
 }
+
+.relative{
+	position: relative;
+}
+
+.investmentIconInfo{
+	position: absolute;
+	right: 0;
+	top: 2px;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.investmentIconInfo>i{
+	display: block;
+}
+#investmentManagement-info{
+	display: none;
+}
+
+.list-group a.enable h5{
+	color: #00A1D0;
+}
+.list-group a.enable.active h5,
+.list-group a.active h5{
+	color: #fff;
+}
+.list-group-item-action.enable:hover h5{
+	color: #fff;
+}
+.list-group-item-action.enable:hover{
+	color: #fff;
+	background-color: #00A1D0;
+	border-color: #007bff;
+}

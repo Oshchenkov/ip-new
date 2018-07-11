@@ -93,17 +93,17 @@
 										Objective:
 									</p>
 									<p class="text-uppercase mb-0">
-										-value-
+										xxxxxxxxxxxxxxxxxxxx
 									</p>
 									<p class="text-uppercase">
-										-value-
+										xxxxxxxxxxxxxxxxxxxx
 									</p>
 
 									<p class="text-uppercase mb-0">
-										Time horizon: <span class="text-lowercase">7 years</span>
+										Time horizon: <span class="text-lowercase">13 years</span>
 									</p>
 									<p class="text-uppercase mb-4">
-										Total investment: 50,000 gbr
+										Total investment: 10,000 gbr
 									</p>
 								</div>
 							</div>
@@ -115,20 +115,7 @@
 								</div>
 								<div class="cardGrey__content">
 									<p class="text-uppercase mb-0">
-										Objective:
-									</p>
-									<p class="text-uppercase mb-0">
-										-value-
-									</p>
-									<p class="text-uppercase">
-										-value-
-									</p>
-
-									<p class="text-uppercase mb-0">
-										Time horizon: <span class="text-lowercase">7 years</span>
-									</p>
-									<p class="text-uppercase mb-4">
-										Total investment: 50,000 gbr
+										No goal found
 									</p>
 								</div>
 							</div>

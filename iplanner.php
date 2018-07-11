@@ -255,7 +255,7 @@
             </div>
           </div>
         </article>
-        <?php include('inc/sb/limelight.php'); ?>
+        <?php include('inc/sb/iplanner.php'); ?>
 
       </div>
     </main>

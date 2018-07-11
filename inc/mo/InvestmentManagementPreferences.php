@@ -27,12 +27,18 @@
             <button type="button" class="closeAbsol close position-absolute close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true"><i class="far fa-times-circle"></i></span>
             </button>
-          </div><!-- /.col p-2 -->
+					</div><!-- /.col p-2 -->
         </div><!-- /.row -->
       </div><!-- /.modal-headerClean -->
 
       <div class="modal-body p-4 bg-white">
-      <section id="PIG-quesrion-28">
+				<p class="small text-center" id="investmentManagement-info">
+					<a id="investmentManagement-info_closeBtn" id="" href="#">Close this section<i class="far fa-times-circle" style="margin-left:4px;"></i></a>
+					<br>
+					<br>
+					<img src="img/Strategy_Matrix.png">
+				</p>
+      	<section id="PIG-quesrion-28">
           <div class="row">
             <div class="col-3 p-2">
               <h6 class="text-uppercase m-0 highlight-textСolor font-weight-normal">
@@ -41,8 +47,11 @@
               <hr class="my-3 " />
             </div><!-- /.col-3 -->
             <div class="col-9 p-2">
-              <h6 class="text-uppercase m-0 highlight-textСolor font-weight-normal">
-                Question 28:
+              <h6 class="text-uppercase m-0 highlight-textСolor font-weight-normal relative">
+								Question 28:
+								<div class="investmentIconInfo">
+									<i class="fas fa-info-circle"></i>
+								</div>
               </h6><!-- /.text-uppercase -->
               <hr class="my-3 " />
             </div><!-- /.col-9 -->

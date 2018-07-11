@@ -95,131 +95,135 @@
 						Characteristics of your risk profile
 					</h4>
 					<div class="row CharacteristicsList mb-5">
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Medium term timescale
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText ">
-									Access to savings not required for at least 5 years
+						<div class="col-6">
+							<div class="col px-1 mb-3 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Medium term timescale
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Sufficient savings cushion
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText ">
-									Access to savings potentially required in around 5-10 years
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Sufficient savings cushion
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Seeks gradual, steady returns
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText ">
-									Willing to accept some short-to intermediate term volatility
+							<div class="col px-1 mb-3 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Seeks gradual, steady returns
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Looking for growth over income
+									</div>
 								</div>
-								<div class="CharacteristicsList__contentText ">
-									Have an understanding that there is always potential for short term falls,
-									which should not cause grave concern
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Prepared to consider international investment
+									</div>
+								</div>
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Higher expectation than a Conservative Investor
+									</div>
+								</div>
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content clearfix">
+									<div class="CharacteristicsList__contentIcon float-left">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText float-left">
+										Seeking controlled valatility with growth profile
+									</div>
 								</div>
 							</div>
 						</div>
 						
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
+						<div class="col-6">
+							<div class="col px-1 mb-3 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Access to savings not required for at least 5 years
+									</div>
 								</div>
-								<div class="CharacteristicsList__contentText ">
-									Some previous investing experience, but may not necessarily consider themselves
-									to be so
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Access to savings potentially required in around 5-10 years
+									</div>
+								</div>
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Willing to accept some short-to intermediate term volatility
+									</div>
+								</div>
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Some previous investing experience, but may not necessarily consider themselves
+										to be so
+									</div>
+								</div>
+							</div>
+							<div class="col px-1 mb-2 clearfix">
+								<div class="CharacteristicsList__content ">
+									<div class="CharacteristicsList__contentIcon ">
+										<img src="img\12-suitability-assessment\Check.jpg" alt="">
+									</div>
+									<div class="CharacteristicsList__contentText ">
+										Have an understanding that there is always potential for short term falls,
+										which should not cause grave concern
+									</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Prepared to consider international investment
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Looking for growth over income
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content ">
-								<div class="CharacteristicsList__contentIcon ">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText ">
-									higher expectation than a Conservative Investor
-								</div>
-							</div>
-						</div>
-						<div class="col-6 mb-3">
-							<div class="CharacteristicsList__content clearfix">
-								<div class="CharacteristicsList__contentIcon float-left">
-									<img src="img\12-suitability-assessment\Check.jpg" alt="">
-								</div>
-								<div class="CharacteristicsList__contentText float-left">
-									Seeking controlled valatility with growth profile
-								</div>
-							</div>
-						</div>
-
 					</div>
+
 					<h4 class="text-dark  text-uppercase mb-4">
 						How your profile compares
 					</h4>

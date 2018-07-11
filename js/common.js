@@ -61,6 +61,23 @@ $( document ).ready(function() {
       	$('#PR-BackEnd').prop('disabled', 'disabled');
       }
     });
-  });
+	});
+	
+	$( '.investmentIconInfo' ).click(function() {
+		$( '#investmentManagement-info' ).fadeIn( "slow" );
+	});
+	$( '#investmentManagement-info_closeBtn' ).click(function() {
+		event.preventDefault();
+		$( '#investmentManagement-info' ).fadeOut( "slow" );
+	});
 
+	$('.list-group .list-group-item.enable').click(function(){
+		event.preventDefault();
+		
+		if ( $(this).hasClass('active') ){
+			$(this).removeClass('active');
+		} else{
+			$(this).addClass('active');
+		}
+	});
 });
