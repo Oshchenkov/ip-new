@@ -88,12 +88,12 @@
                       </div><!-- /.col-3 -->
                       <div class="col-8 px-0">
                         <select class="form-control" id="goal-1-Cat">
-                          <option readonly="" value="">Pay off the mortgages</option>
+                          <!-- <option readonly="" value="">Pay off the mortgages</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-9 -->
                     </div><!-- /.row mx-0 -->
@@ -103,12 +103,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1 ">
                     <select class="form-control" id="goal-1-InvCur">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1">
@@ -116,12 +116,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 pl-1 pr-0">
                     <select class="form-control" id="goal-1-TimeHorizon">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
                   <div class="col-12 px-0 pb-3">
@@ -163,12 +163,12 @@
                       </div><!-- /.col-3 -->
                       <div class="col-8 px-0">
                         <select class="form-control" id="goal-2-Cat">
-                          <option readonly="" value="">Pay off the mortgages</option>
+                          <!-- <option readonly="" value="">Pay off the mortgages</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-9 -->
                     </div><!-- /.row mx-0 -->
@@ -178,12 +178,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1 ">
                     <select class="form-control" id="goal-2-InvCur">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1">
@@ -191,12 +191,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 pl-1 pr-0">
                     <select class="form-control" id="goal-2-TimeHorizon">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
                   <div class="col-12 px-0 pb-3">
@@ -238,12 +238,12 @@
                       </div><!-- /.col-3 -->
                       <div class="col-8 px-0">
                         <select class="form-control" id="goal-3-Cat">
-                          <option readonly="" value="">Pay off the mortgages</option>
+                          <!-- <option readonly="" value="">Pay off the mortgages</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-9 -->
                     </div><!-- /.row mx-0 -->
@@ -253,12 +253,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1 ">
                     <select class="form-control" id="goal-3-InvCur">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
                   <div class="col-2 px-1">
@@ -266,12 +266,12 @@
                   </div><!-- /.col-2 -->
                   <div class="col-2 pl-1 pr-0">
                     <select class="form-control" id="goal-3-TimeHorizon">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col-2 -->
 
@@ -344,12 +344,12 @@
                       </div><!-- /.col-6 -->
                       <div class="col-2 px-1">
                         <select class="form-control text-uppercase" id="PIG-q2-pay-account">
-                          <option readonly="" value="">General</option>
+                          <!-- <option readonly="" value="">General</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                       <div class="col-2 px-1">
@@ -369,12 +369,12 @@
                       </div><!-- /.col-6 -->
                       <div class="col-2 px-1">
                         <select class="form-control text-uppercase" id="PIG-q2-finance-account">
-                          <option readonly="" value="">Other</option>
+                          <!-- <option readonly="" value="">Other</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                       <div class="col-2 px-1">
@@ -394,12 +394,12 @@
                       </div><!-- /.col-6 -->
                       <div class="col-2 px-1">
                         <select class="form-control text-uppercase" id="PIG-q2-savings-account">
-                          <option readonly="" value="">Offshores</option>
+                          <!-- <option readonly="" value="">Offshores</option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                       <div class="col-2 px-1">
@@ -484,12 +484,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q3-InvAcc-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->
@@ -509,12 +509,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q3-Other-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->
@@ -534,12 +534,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q3-Offshore-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->
@@ -618,12 +618,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q4-InvAcc-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->
@@ -643,12 +643,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q4-Other-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->
@@ -668,12 +668,12 @@
                       </div><!-- /.col-2 -->
                       <div class="col-2 pl-1 pr-0">
                         <select class="form-control text-uppercase" id="PIG-q4-Offshore-currency">
-                          <option readonly="" value=""></option>
+                          <!-- <option readonly="" value=""></option>
                           <option value="Dr">Dr</option>
                           <option value="Mr">Mr</option>
                           <option value="Mrs">Mrs</option>
                           <option value="Miss">Miss</option>
-                          <option value="Ms">Ms</option>
+                          <option value="Ms">Ms</option> -->
                         </select>
                       </div><!-- /.col-2 -->
                     </div><!-- /.row -->

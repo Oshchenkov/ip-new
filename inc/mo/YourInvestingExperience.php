@@ -46,7 +46,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Choosing investments yourself does suggest at least a baseline
+								level of familiarity with financial markets.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -96,7 +99,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Potentially by virtue of your pension experience considered 
+								in the question above, or entirely separate.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -146,7 +152,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								This refers to shares or individual companies, rather
+								than investing through funds or other investments.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -196,7 +205,9 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								A financial adviser themselves may have provided such a solution.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -246,7 +257,9 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								It's useful to know of the 'breadth' of your investing experience.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -296,7 +309,9 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								This helps to determine an appropriate risk-rating for your investment strategy.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">

@@ -49,12 +49,15 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Understanding how you feel about money, further
+								guides us in making an appropriate investment recommendation.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
                 <h5 class="text-uppercase mb-4">
-                  Inentify which style you would like to take for the investing goals confirmed in q1.
+                  Identify which style you would like to take for the investing goals confirmed in q1.
                 </h5><!-- /.text-uppercase -->
 
                 <div class="row mx-0 align-items-center text-center text-uppercase lh-1 fz-14 bg-light br-b br-t py-2">

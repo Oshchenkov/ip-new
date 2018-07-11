@@ -2059,7 +2059,6 @@
           <!-- ---------------      /Tell Us About Yourself – Partner       ---------------- -->
           <!-- ----------------------------------------------------------------------------- -->
 
-          <?php include('inc/mo/tellUsAboutYourInvestment.php'); ?>
 
           <?php include('inc/mo/tellUsAboutYourInvestment_v2.php'); ?>
           

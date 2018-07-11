@@ -735,5 +735,32 @@ End Bootstrap custom styles
 	border-bottom: 2px solid #ebebeb;
 }
 
-/* ----- Investor Profile ------ */
+/* ----- Tell us about your investment ------ */
+.list-none{
+	list-style-type: none;
+}
 
+.listRadio{}
+.listRadio__input{}
+.listRadio__label{
+	text-transform: none;
+	margin-bottom: 0;
+	font-size: 1rem;
+}
+.bl-l{
+	float: left;
+	width: 20px;
+}
+.bl-r{
+	float: left;
+	width: calc( 100% - 25px );
+}
+
+.modalSubheader{
+	background-color:#f3f3f3;
+	padding: 1rem;
+	font-size: 1.25rem;
+	color: #878787;
+	border-top: 1px solid #dadada;
+	border-bottom: 1px solid #dadada;
+}

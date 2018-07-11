@@ -45,7 +45,9 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								You should have rainy day cash available outside of these savings.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -107,7 +109,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Determining the 'size' of your personal balance 
+								sheet is important in portfolio planning.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -176,7 +181,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								This question can help assess the affordability to you 
+								which can have a major influence on the strategy employed.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -245,7 +253,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Understanding how diverse and reliable your income streams are
+								assists in understanding of your financial circumstances.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -287,12 +298,12 @@
                   </div><!-- /.col-3 -->
                   <div class="col px-1">
                     <select class="form-control text-uppercase" id="PIG-q8-emp">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col -->
                   <div class="col px-1">
@@ -325,12 +336,12 @@
                   </div><!-- /.col-3 -->
                   <div class="col px-1">
                     <select class="form-control text-uppercase" id="PIG-q8-RentalIncome">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col -->
                   <div class="col px-1">
@@ -363,12 +374,12 @@
                   </div><!-- /.col-3 -->
                   <div class="col px-1">
                     <select class="form-control text-uppercase" id="PIG-q8-Pensions">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col -->
                   <div class="col px-1">
@@ -401,12 +412,12 @@
                   </div><!-- /.col-3 -->
                   <div class="col px-1">
                     <select class="form-control text-uppercase" id="PIG-q8-StatePension">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col -->
                   <div class="col px-1">
@@ -439,12 +450,12 @@
                   </div><!-- /.col-3 -->
                   <div class="col px-1">
                     <select class="form-control text-uppercase" id="PIG-q8-SavingsIncome">
-                      <option readonly="" value=""></option>
+                      <!-- <option readonly="" value=""></option>
                       <option value="Dr">Dr</option>
                       <option value="Mr">Mr</option>
                       <option value="Mrs">Mrs</option>
                       <option value="Miss">Miss</option>
-                      <option value="Ms">Ms</option>
+                      <option value="Ms">Ms</option> -->
                     </select>
                   </div><!-- /.col -->
                   <div class="col px-1">
@@ -491,7 +502,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Job insecurity for example, can have an influence on 
+								portfolio plan.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -526,7 +540,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Please identify which option most accurately reflects 
+								your current circumstances.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -620,7 +637,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								An increase in your liquid investable assets could justify supporting 
+								a slightly higher risk profile and thus further growth potential.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -846,7 +866,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Whilst a delicate subject, wherever possible we prefer to factor in all
+								circumstances which could have a bearing an your financial circumstances.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">

@@ -5,7 +5,7 @@
 <br />
 <!-- TellUsAboutYourInvestment-partner Request Button trigger modal -->
 <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#TellUsAboutYourInvestment2">
-  Tell us about your Investment 2
+  Tell us about your Investment
 </button>
 
 <!-- TellUsAboutYourInvestment Request Report Modal -->
@@ -43,66 +43,98 @@
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 p-2">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Existing Investment</span>
-            </nav>
+						<h3 class="modalSubheader mb-0">
+							Existing Investment
+						</h3>
           </div><!-- /.col -->
           <div class="col-12 p-2">
             The portfolio has existing assets to be considered and:
           </div><!-- /.col-12 p-2 -->
           <div class="col-12 p-2">
-            <ul class="listCircle">
-              <li class="py-2">
-                Some have uncrystallised capital gains
+            <ul class="list-none">
+							<li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input type="radio" id="TellUsAboutYourInvestment-portfolio__uncr-gains" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment-portfolio__uncr-gains">Some have uncrystallised capital gains</label>
+								</div>	
               </li><!-- /.list-group-item -->
-              <li class="py-2">
-                Some holdings may be illiquid
+							<li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input type="radio" id="TellUsAboutYourInvestment-portfolio__hold-iliquid" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment-portfolio__hold-iliquid">Some holdings may be illiquid</label>
+								</div>	
               </li><!-- /.list-group-item -->
-              <li class="py-2">
-                There are structured products which will need reviewing
+							<li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input type="radio" id="TellUsAboutYourInvestment-portfolio__structured-product" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment-portfolio__structured-product">There are structured products which will need reviewing</label>
+								</div>	
               </li><!-- /.list-group-item -->
             </ul><!-- /.list-group list-group-flush -->
           </div><!-- /.col-12 p-2 -->
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 p-2">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Us Clients or connected</span>
-            </nav>
+						<h3 class="modalSubheader mb-0">
+							Us Clients or Connected Persons
+						</h3>
           </div><!-- /.col -->
           <div class="col-12 p-2">
-            <ul class="listCircle">
-              <li class="py-2">
-                I/We would be considered to be a'US connected person' and will, therefore, need an 'investment wrapper' to invest
+            <ul class="list-none">
+              <li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input class="listRadio__input" type="radio" id="TellUsAboutYourInvestment-clientsOrConnected" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment-clientsOrConnected">I/We would be considered to be a'US connected person' and will, therefore, need an 'investment wrapper' to invest</label>
+								</div>	
               </li><!-- /.list-group-item -->
-            </ul><!-- /.list-group list-group-flush -->
+						</ul><!-- /.list-group list-group-flush -->
           </div><!-- /.col-12 p-2 -->
         </div><!-- /.row -->
 
         <div class="row">
           <div class="col-12 p-2">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Self Directed Accounts</span>
-            </nav>
+						<h3 class="modalSubheader mb-0">
+							Self Directed Accounts
+						</h3>
           </div><!-- /.col -->
           <div class="col-12 p-2">
-            <ul class="listCircle">
-              <li class="py-2">
-                I/We would like to have a separete account to make some self-directed investments
+            <ul class="list-none">
+							<li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input type="radio" id="TellUsAboutYourInvestment__SelfDirectedAccounts" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment-SelfDirectedAccounts">I/We would like to have a separete account to make some self-directed investments</label>
+								</div>	
               </li><!-- /.list-group-item -->
             </ul><!-- /.list-group list-group-flush -->
           </div><!-- /.col-12 p-2 -->
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 p-2">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Income Requirements</span>
-            </nav>
+						<h3 class="modalSubheader mb-0">
+							Income Requirements
+						</h3>
           </div><!-- /.col -->
           <div class="col-12 p-2">
-            <ul class="listCircle">
-              <li class="py-2">
-                I will need to take income from this portfolio but already have those requirements covered until <input data-provide="datepicker" class="form-control datepicker w-initial" id="IncomeDatepicker" placeholder="dd/mm/yyyy">
+            <ul class="list-none">
+							<li class="py-2 listRadio clearfix">
+								<div class="bl-l">
+									<input type="radio" id="TellUsAboutYourInvestment__IncomeRequirenments" checked>
+								</div>
+								<div class="bl-r">
+									<label class="listRadio__label" for="TellUsAboutYourInvestment__IncomeRequirenments">I will need to take income from this portfolio but already have those requirements covered until
+										 <input data-provide="datepicker" class="form-control datepicker w-initial mt-3" id="IncomeDatepicker" placeholder="dd/mm/yyyy">
+									</label>
+								</div>	
               </li><!-- /.list-group-item -->
             </ul><!-- /.list-group list-group-flush -->
 
@@ -110,15 +142,15 @@
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 p-2">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Further Details:</span>
-            </nav>
+						<h3 class="modalSubheader mb-0">
+							Further Details:
+						</h3>
           </div><!-- /.col -->
           <div class="col-12 p-2">
             Please provide any details here, and where relevant valuations of any existing assets.
           </div><!-- /.col-12 p-2 -->
           <div class="col-12 p-2">
-            <textarea class="form-control" id="tellUsIncome-details" rows="3"></textarea>
+            <textarea class="form-control" id="tellUsIncome-details" rows="5"></textarea>
           </div><!-- /.col-12 p-2 -->
         </div><!-- /.row -->
 

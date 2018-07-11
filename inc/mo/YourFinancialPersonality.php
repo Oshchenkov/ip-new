@@ -45,7 +45,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Understanding how you respond to certain 'monetary' events
+								is important in financial and portfolio planning.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -127,7 +130,11 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								To what extent do you agree with the statement? Keep in mind
+								that all investment can lose money so consider to what extent you 
+								could cope with falls in the value of your investment.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -222,7 +229,11 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								To what extent do you agree with the statement? Keep in mind that all
+								investments can lose money so consider to what extent you could cope
+								with falls in the value of your investment.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -321,7 +332,12 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Investing means a trade-off between the risk taken, and potential reward on offer. 
+								Which of the following appeals to you most? The gains are potential annualised
+								averages, but below the line reflects how the value of your portfolio
+								may swing during a given year.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -410,7 +426,9 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Establishing your 'comfort level' in investing is a cornerstone portfolio planning.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -511,7 +529,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Identify how preoccupied you are with financial affairs also helps shape 
+								an understanding of your financial personality.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -606,7 +627,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Many people are quite comfortable with risk-taking, and have knowingly 
+								taken on investments with a high prospective reward and remain comfortable with it.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -701,7 +725,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								This question offers three different choices in relation to a 'one-off'
+								prospective gain or loss.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
@@ -814,7 +841,10 @@
           </div><!-- /.row -->
           <div class="row mb-5">
             <div class="col-3 px-2">
-              <div class=" questionContentL bg-light p-2 d-block h-100">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</div>
+              <div class=" questionContentL bg-light p-2 d-block h-100">
+								Understanding how you feel about money, further guides us in making
+								an appropriate investment recommendation.
+							</div>
             </div><!-- /.col-3 p-3 -->
             <div class="col-9 px-2 ">
               <div class="questionContentR p-0  d-block h-100">
