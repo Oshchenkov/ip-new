@@ -80,4 +80,9 @@ $( document ).ready(function() {
 			$(this).addClass('active');
 		}
 	});
+
+	// Initialize Table
+	$('#searchInvestors-tabel').DataTable();
+
+
 });

@@ -20,6 +20,8 @@
       <div class="row">
         <article id="content" class="col-md-9">
 
+					<?php include('inc/mo/searchInvestors.php'); ?>
+
           <!-- Start New Report Button trigger modal -->
           <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#StartNewReport">
             Start New Report
